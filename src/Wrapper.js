@@ -1,4 +1,3 @@
-P
 
 import React from 'react'
 
